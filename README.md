@@ -13,13 +13,13 @@ Made with ❤️ by Juttbadshah
 notice : if you get cp results, save 3/7 days then log in.
 
 
-menu
+# menu
 How to see ok/cp account results: Check video
 
-$ apt update && apt upgrade
-$ apt install python2
-$ pip2 install mechanize
-$ pip2 install requests bs4
+ apt update && apt upgrade
+ apt install python2
+ pip2 install mechanize
+ pip2 install requests bs4
 $ apt install git
 $ rm -rf jmbf
 $ git clone https://github.com/juttbadshah6969/jmbf/
