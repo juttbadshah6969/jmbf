@@ -8,9 +8,11 @@ Made with ❤️ by Juttbadshah
 <img src="https://github.com/juttbadshah6969/jmbf/blob/main/Img/result.jpg" />
 notice : if you get cp results, save 3/7 days then log in.
 
-# Installtion Install
+# Installtion Install & Copy Commonds
 
 Check video
+
+<p>Copy Commands <a href="https://pastebin.com/raw/GKQZkz41" target="_blank">Click</a>.</p>
 
 # Install script on Termux
 
