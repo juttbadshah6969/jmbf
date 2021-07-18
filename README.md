@@ -4,9 +4,16 @@ Made with ❤️ by Juttbadshah
 
 
 
+
+# menu
+<img src="https://github.com/juttbadshah6969/jmbf/blob/main/Img/meny.jpg" />
+
+# resutl
+<img src="https://github.com/juttbadshah6969/jmbf/blob/main/Img/result.jpg" />
 notice : if you get cp results, save 3/7 days then log in.
 
-## Result
+
+menu
 How to see ok/cp account results: Check video
 
 $ apt update && apt upgrade
