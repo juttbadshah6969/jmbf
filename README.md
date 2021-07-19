@@ -25,6 +25,7 @@ pip2 install mechanize
 pip2 install requests bs4
 
 apt install git
+termux-setup-storage
 
 rm -rf jmbf
 
